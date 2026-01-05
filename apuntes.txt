@@ -1,0 +1,18 @@
+
+    Respuestas informativas (100–199),
+    Respuestas satisfactorias (200–299),
+    Redirecciones (300–399),
+    Errores de los clientes (400–499),
+    y errores de los servidores (500–599).
+
+Tipo de automaizaciones
+
+0Auth es un estandar abierto que permite el flujo de autorizacion para sitios web o aplicaciones informaticas.
+0Auth 2.0 es un protocolo de autorizacion que otorga a un cliente API acceso limitado a los datos del usuario en un servidor web. Las API de GitHub, Google y Facebbok lo utilizan notablemente. (genera un id y llave , genera un tken)
+    Auntenticacion por cabezera metodo o url.
+    
+ApiKey Son las siglas de API: Aplication Programming Interfaces, que se treduciran como interfaz de programacion de aplicaciones, y Key; significa llave, por lo tanto podriamos decir que es un identificador que sirve que sirve para la 
+    autenticacion para el uso de un servicio
+
+
+
